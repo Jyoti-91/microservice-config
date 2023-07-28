@@ -3,11 +3,11 @@
 spring:
   application:
     name: Config-Default
-   data:
-    mongodb:
-      database: StudentInfo
-      host: localhost
-      port: 27017
+   # data:
+   #  mongodb:
+   #    database: StudentInfo
+   #    host: localhost
+   #    port: 27017
 eureka:
   instance:
     prefer-ip-address: true

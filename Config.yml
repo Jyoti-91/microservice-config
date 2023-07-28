@@ -2,7 +2,7 @@
 #   port: 8081
 spring:
   application:
-    name: Config
+    name: Config-Default
    data:
     mongodb:
       database: StudentInfo
